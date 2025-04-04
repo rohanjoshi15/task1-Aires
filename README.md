@@ -93,10 +93,11 @@
 - Estimate the real-world distance using the **pinhole camera model**.
 
 ### Constants:
-REAL_ARROW_WIDTH = 17.0  # cm
-IMAGE_WIDTH = 1280       # pixels
-DIAGONAL_FOV = 55        # degrees
-HORIZONTAL_FOV = 47      # degrees
+    ```python
+    REAL_ARROW_WIDTH = 17.0  # cm
+    IMAGE_WIDTH = 1280       # pixels
+    DIAGONAL_FOV = 55        # degrees
+    HORIZONTAL_FOV = 47      # degrees
 
 ### Distance : Distance = (Real Object Width X Focal Length) / Perceived Width in Image
 
