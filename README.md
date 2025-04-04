@@ -1,6 +1,24 @@
 # Task 1 - Aires
+ ---
+
+ ### Light Dose
+
+ ---
+
+ ### 1 to 10. Linux Commands
+ - Learnt from chat-gpt & youtube
+ - Screenshots uploaded
+
+### Bash Scripting 
+- It had to do battery check and Ping google to check connectivity and maintain a record
+- syntax taken from google
+- other than syntax - basic if else code logic implementation 
 
 ---
+
+### Medium Dose
+
+--- 
 
 ## 1. Arrow Detection & Rover Center Calculation
 - Find the offset value and add it to the Y-axis.
