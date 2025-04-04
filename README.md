@@ -27,7 +27,7 @@ Get the pattern and formulate it, also use for loop so that we dont have to make
 
 
 5] Change of Rotation (3D to 4D)
-   What Are Euler Angles?
+Euler Angle
 Euler angles represent 3D rotation using three values
 Roll : Rotation about the X-axis
 Pitch : Rotation about the Y-axis
